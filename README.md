@@ -1,2 +1,2 @@
 # bookstore_group_1
-Summer Quarter Final Project
+Summer 2021 Quarter Final Project
